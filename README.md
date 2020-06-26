@@ -1,0 +1,2 @@
+# HuaweiLoadingView
+基于Kotlin实现的仿华为loadingview
