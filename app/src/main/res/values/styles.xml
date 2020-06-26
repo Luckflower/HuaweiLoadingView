@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <declare-styleable name="HuaweiLoadingView">
+        <!--控件大小-->
+        <attr name="hw_size" format="dimension" />
+        <!--控件颜色-->
+        <attr name="hw_color" format="color" />
+        <!--转一圈花费时长-->
+        <attr name="hw_duration" format="integer"/>
+    </declare-styleable>
+
+</resources>
